@@ -1,6 +1,6 @@
 # Non-Functional Requirements
 
-Here are the list of some of the non functional requirements that I can think of: 
+Here is the list of some of the non functional requirements that I can think of: 
 
 **Usability:**
 - The user interface should be intuitive and easy to navigate, with feedback loop as needed. 
