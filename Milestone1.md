@@ -269,7 +269,8 @@ Here are some of the main data items and entities.
    - **Usage:** Aids in organizing tasks based on their nature or purpose.
    - **Data Structure:** Contains a name and possibly a description.
 
-![[Pasted image 20240215145021.png]]
+<img width="1128" alt="Pasted image 20240215145021" src="https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/eecb2bb7-3bd0-4146-9efb-45037babaa31">
+
 
 
 ---
