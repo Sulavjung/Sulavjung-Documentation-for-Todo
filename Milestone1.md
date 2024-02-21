@@ -321,6 +321,7 @@ There are not so important items that in itself aren't data items but does consi
 18. A user shall be able to change their password.
 
 **Task**
+
 19. A task shall be able to be deleted and added.
 20. A task shall be able to hold dates and times.
 21. A task shall be able to hold certain priority flags depending on the importance.
@@ -332,6 +333,7 @@ There are not so important items that in itself aren't data items but does consi
 27. A task shall warn the user if they reach the limit for subtasks.
 
 **Journal**
+
 28. A Journal shall generate a prompt for the user from their highest priority tasks.
 29. A Journal shall give the user a new entry and prompt each day.
 30. A Journal shall ask the user how they can improve.
@@ -341,6 +343,7 @@ There are not so important items that in itself aren't data items but does consi
 34. A Journal shall prompt a user to delete old journals if there is not enough space.
 
 **Calendar**
+
 35. A calendar shall show the user’s upcoming deadlines.
 36. A calendar shall notify the user of upcoming deadlines.
 37. A calendar shall keep track of passed deadlines as well as upcoming deadlines.
@@ -350,6 +353,7 @@ There are not so important items that in itself aren't data items but does consi
 41. A calendar shall be able to transition between those two views.
 
 **Account**
+
 42. An account shall be created by one user.
 43. An account shall only be created by a user able to properly consent to our terms and conditions without the assistance of a parent or guardian.
 44. An account shall be created with a username, email, and password.
@@ -358,6 +362,7 @@ There are not so important items that in itself aren't data items but does consi
 47. An account’s tasks shall be synchronized across devices.
 
 **List**
+
 48. A To-Do list shall be deleted when the user chooses to delete it.
 49. A To-Do list shall, upon deletion, delete all tasks and subtasks beneath it.
 50. A To-Do list shall be able to be differentiated from other To-Do lists.
