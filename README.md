@@ -2,6 +2,7 @@
 
 1. [Main Data Items](Main%20data%20items.md)
 2. [Non-Functional Requirements](Non-Functional%20Requirement.md)
+3. [Milestone 1](Milestone1.md)
 
 ---
 
