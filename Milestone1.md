@@ -31,6 +31,8 @@ Pros:
 - An easy way for players to find a group.
 
 Cons:
+
+
 - 
 
 ### 2. ToDoToday (WIP):
@@ -76,6 +78,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
 - Potential Requirements: 
 	- Nested Scheduling: The ability to have different lists that can be easily differentiable from one another. Maybe being able to name certain lists. 
 	- Task Percentage: Rather than fully checking off a task, provide a feature where they can check a certain amount of percentage and also be able to display the progress bar to the user.
+
 ![Pasted image 20240221075323](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/5becbe0b-0a37-4c11-903d-fe85e0283665)
 
 ### 2. A mother trying to manage both their kid's differing schedule and varying tasks
@@ -93,6 +96,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Nested Scheduling: The ability to have different lists that can be easily differentiable from one another. Maybe being able to name certain lists
   - Task Percentage: Rather than fully checking off a task, provide a feature where they can check a certain amount of percentage and also be able to display the progress bar to the user.
   - Priority Setting: A feature to set the priority status of a task. This would allow people to set more important tasks to have a higher priority vs the lesser priority ones.
+
 ![Pasted image 20240221075347](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/ec9ffdd8-cab2-4154-a586-aad738c0bf92)
 
 
@@ -112,6 +116,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Task Percentage: Rather than fully checking off a task, provide a feature where they can check a certain amount of percentage and also be able to display the progress bar to the user.
   - Priority Setting: A feature to set the priority status of a task. This would allow people to set more important tasks to have a higher priority vs the lesser priority ones
   - Journal feature: This feature will help the user debrief and think about the tasks that they are doing. Essentially having a recap and potentially being able to think about what worked for them and what didn't. Could also have a part where they keep track of their results or progress on tasks.
+
 ![Pasted image 20240221075412](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/8dfb2eea-5dba-45a1-838a-81d875366d3a)
 
 
@@ -130,6 +135,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Nested Scheduling: The ability to have different lists that can be easily differentiable from one another. Maybe being able to name certain lists
   - Task Percentage: Rather than fully checking off a task, provide a feature where they can check a certain amount of percentage and also be able to display the progress bar to the user.
   - Priority Setting: A feature to set the priority status of a task. This would allow people to set more important tasks to have a higher priority vs the lesser priority one.
+
 ![Pasted image 20240221075434](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/93faa270-ca65-4f73-8a8a-a61eb6edab81)
 
 
@@ -150,6 +156,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Priority Setting: A feature to set the priority status of a task. This would allow people to set more important tasks to have a higher priority vs the lesser priority ones
   - Reminders: For really important or even just designated tasks there should be a way to have a reminder or a notification pop up to remind the user of that task
   - Easy UI: The user interface should be easy to use and easy to find the different lists without looking too cluttered.
+
 ![Pasted image 20240221075454](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/cea97971-2c0b-43fe-b91b-52483cbff47d)
 
 
@@ -171,6 +178,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Reminders: For really important or even just designated tasks there should be a way to have a reminder or a notification pop up to remind the user of that task
   - Easy UI: The user interface should be easy to use and easy to find the different lists without looking too cluttered.
   - Manageability: The user should be able to manage and change things such as priority status and other general things like the name of the task or where the task is.
+
 ![Pasted image 20240221075520](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/c102c0a3-f3ac-48a4-8937-f6fb35e1aa3d)
 
 
@@ -196,6 +204,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Access Across Devices: Given the availability of a laptop and phone, the app should have synchronization capabilities, ensuring that the user can access and update their tasks seamlessly across various devices.
   - User-Friendly Interface: The app should provide an intuitive and user-friendly interface to enhance the overall user experience, making it easy for the hobbyist to manage tasks without a steep learning curve.
   - Motivational Features: Including visual elements or notifications that celebrate task completion milestones could contribute to a more motivating user experience.
+
 ![Pasted image 20240221075546](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/c6732269-b944-43dd-b15d-782c4004bd5c)
 
 
@@ -219,6 +228,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
   - Reminders: For really important or even just designated tasks there should be a way to have a reminder or a notification pop up to remind the user of that task
   - Easy UI: The user interface should be easy to use and easy to find the different lists without looking too cluttered.
   - Manageability: The user should be able to manage and change things such as priority status and other general things like the name of the task or where the task is.
+
 ![Pasted image 20240221075615](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/43635fc4-4820-493d-b77a-bf9a8fe75385)
 
 
@@ -232,6 +242,7 @@ TODo TODay‘s flexibility and structure helps reinforce the habit of maintainin
 - Benefits:
   - ToDoToday gave the dog owner a pleasant todo list experience with the progress bar
   - Able to assign weights to each subtask.
+
 ![Pasted image 20240221075639](https://github.com/Sulavjung/Sulavjung-Documentation-for-Todo/assets/79497159/7d9ac1ff-b728-4084-bc42-bb0b775f7064)
 
 
