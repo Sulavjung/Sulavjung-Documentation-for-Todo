@@ -49,6 +49,7 @@ http://ip-address-of-the-ubuntuServer
 ## **Step 5: Serve your web app**
 
 Now that Nginx is installed and running on your Ubuntu server, you can serve your web application using Nginx.
+
 By default, Nginx serves files from the `/var/www/html` directory. You can place your website files in this directory to serve them through Nginx. You should now go ahead and create a folder in this location `/var/www/` with the name of your application. You can use such commands to do that.
 
 ```bash
