@@ -1,8 +1,7 @@
 # Credentials Documentation
 
 ## AWS Instance Access
-
-Secure Shell (SSH) is a cryptographic protocol for securely operating network services over an unsecured network. To access the server via SSH, you will need the SSH URL, Username, and either a password or an SSH key.
+To access the server via SSH, you will need the SSH URL, Username, and either a password or an SSH key.
 
 ### SSH Credentials
 
