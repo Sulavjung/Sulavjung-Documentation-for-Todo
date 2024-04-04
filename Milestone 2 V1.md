@@ -44,7 +44,7 @@ An application similar to a dating app but for people, Dungeons and Dragons play
       
     
 
-## 2. ToDoToday (WIP):
+### 2. ToDoToday (WIP):
    
 A ToDo list that is able to support the ability to mark down a certain degree of percentage done for a task. The idea of not being able to mark down a task as done is demoralizing to the person and doesn't help in productivity. With this feature, we are able to make sure that we can keep track of and visualize the progress that we are making in the tasks that we mark down. There will also be a journal feature that can help the users to reflect and further digest how they are doing for a task.
 
@@ -61,7 +61,7 @@ A ToDo list that is able to support the ability to mark down a certain degree of
 - ?
     
 
-## 3. RentABook:
+### 3. RentABook:
 Textbook rental service similar to that of Airbnb. We all have been in a position where either we do not have the funds to get a new textbook that is required for a class that we are taking or we bought a textbook and no longer have a use for it rendering it useless. This app fixes both of these problems because on this app you would be able to rent textbooks that you would need without having to pay the full price of that textbook. On the other hand, you would also be able to put the textbook that you have up for rent so that you can make money off of a book that you might not have a use for anymore. 
 
 **Pros:**
